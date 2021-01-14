@@ -9,6 +9,7 @@
 }
 .outer h1{
     text-align: center;
+    color:white;
 }
 table{
     padding: 0px;
@@ -16,6 +17,7 @@ table{
 }
 p{
     font-size: 20px;
+    color:white;
 }
 .border{
     width: 98%;
@@ -23,13 +25,16 @@ p{
     background-color: plum ;
     border: 1px solid black;
     font-weight: bold;
+    color:white;
 
     
 }
 ul{
     font-size: 20px;
     margin-left: 45px;
+    color:white;
 }
 h2{
     float: right;
+    color:white;
 }
