@@ -1,11 +1,13 @@
 *{
     padding: 0px;
     margin: 0px;
+    color:white;
 }
 .outer{
     width: 700px;
     height: 800px;
     margin: 0px auto;
+    color:white;
 }
 .outer h1{
     text-align: center;
@@ -14,6 +16,7 @@
 table{
     padding: 0px;
     margin: 0px;
+    color:white;
 }
 p{
     font-size: 20px;
